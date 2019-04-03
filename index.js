@@ -32,7 +32,7 @@ server.use(session({
 }));
 
 //监听端口
-server.listen(8686,()=>{
+server.listen(5050,()=>{
     console.log('Krypton gold！Krypton gold！Krypton gold！');
 });
 //托管静态资源到public
